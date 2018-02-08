@@ -1,16 +1,21 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+    "posts":[
+             {
+             "id" : 0,
+             "title": "First post!",
+             "content" : "Am I lost?"
+             },
+             {
+             "id" : 1,
+             "title": "Second post",
+             "content" : "You are not lost you are here."
+             }
+             ],
+    "comments" : [
+                  {
+                  "id": 0,
+                  "content": "Wow such content!",
+                  "username": "zero_cool"
+                  }
+                  ]
 }
