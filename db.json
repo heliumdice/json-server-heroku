@@ -2,76 +2,121 @@
     "humanCollection": {
         "link": "https://youarenotlostyouarehere.herokuapp.com/humanCollection2",
         "data": [
-                   {
-                   "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Krishan Appleton"
-                   },
-                   {
-                   "uuid": "7b5112fe-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Tanvir Turner"
-                   },
-                   {
-                   "uuid": "7b511434-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Chanelle Arroyo"
-                   },
-                   {
-                   "uuid": "7b511556-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Carley Moon"
-                   },
-                   {
-                   "uuid": "7b51195c-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Robin Cortes"
-                   }
-                   ]
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Delilah Suarez",
+                 "age": "14"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Tanvir Turner",
+                 "age": "14"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Chanelle Arroyo",
+                 "age": "57"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Carley Moon",
+                 "age": "24"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Robin Cortes",
+                 "age": "27"
+                 }
+                 }
+                 ]
     },
     "humanCollection2": {
         "link": "https://youarenotlostyouarehere.herokuapp.com/humanCollection3",
         "data": [
-                   {
-                   "uuid": "7b511aa6-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Ivy-Rose Estes"
-                   },
-                   {
-                   "uuid": "7b511bc8-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Sharon Yoder"
-                   },
-                   {
-                   "uuid": "7b511d1c-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Dayna Cochran"
-                   },
-                   {
-                   "uuid": "7b511e3e-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Krystian Benton"
-                   },
-                   {
-                   "uuid": "7b512046-0d8a-11e8-ba89-0ed5f89f718b",
-                   "name": "Sasha Sharma"
-                   }
-                   ]
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Ivy-Rose Estes",
+                 "age": "14"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Sharon Yoder",
+                 "age": "14"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Dayna Cochran",
+                 "age": "57"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Krystian Benton",
+                 "age": "24"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Sasha Sharma",
+                 "age": "27"
+                 }
+                 }
+                 ]
     },
     "humanCollection3": {
         "link": "",
         "data": [
-                   {
-                   "uuid": "cc20f4aa-0d8b-11e8-ba89-0ed5f89f718b",
-                   "name": "Kofi Brandt"
-                   },
-                   {
-                   "uuid": "cc20f9a0-0d8b-11e8-ba89-0ed5f89f718b",
-                   "name": "Milan Hooper"
-                   },
-                   {
-                   "uuid": "cc20fbe4-0d8b-11e8-ba89-0ed5f89f718b",
-                   "name": "Kaylie Bowes"
-                   },
-                   {
-                   "uuid": "cc20ff18-0d8b-11e8-ba89-0ed5f89f718b",
-                   "name": "Johnathon Cowan"
-                   },
-                   {
-                   "uuid": "cc210260-0d8b-11e8-ba89-0ed5f89f718b",
-                   "name": "Abigale Markham"
-                   }
-                   ]
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Kofi Brandt",
+                 "age": "14"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Milan Hooper",
+                 "age": "14"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Kaylie Bowes",
+                 "age": "57"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Johnathon Cowan",
+                 "age": "24"
+                 }
+                 },
+                 {
+                 "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
+                 "value": {
+                 "name": "Abigale Markham",
+                 "age": "27"
+                 }
+                 }
+                 ]
     }
 }
