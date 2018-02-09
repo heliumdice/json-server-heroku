@@ -1,6 +1,6 @@
 {
     "humanCollection": {
-        "link": "link to next set",
+        "link": "https://youarenotlostyouarehere.herokuapp.com/humanCollection2",
         "people": [
                    {
                    "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
@@ -25,7 +25,7 @@
                    ]
     },
     "humanCollection2": {
-        "link": "link to next set",
+        "link": "https://youarenotlostyouarehere.herokuapp.com/humanCollection3",
         "people": [
                    {
                    "uuid": "7b511aa6-0d8a-11e8-ba89-0ed5f89f718b",
@@ -50,7 +50,7 @@
                    ]
     },
     "humanCollection3": {
-        "link": "link to next set",
+        "link": "",
         "people": [
                    {
                    "uuid": "cc20f4aa-0d8b-11e8-ba89-0ed5f89f718b",
