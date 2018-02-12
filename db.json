@@ -1,6 +1,6 @@
 {
     "humanCollection": {
-        "link": "https://youarenotlostyouarehere.herokuapp.com/humanCollection2",
+        "link": "humanCollection2",
         "data": [
                  {
                  "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
@@ -40,7 +40,7 @@
                  ]
     },
     "humanCollection2": {
-        "link": "https://youarenotlostyouarehere.herokuapp.com/humanCollection3",
+        "link": "humanCollection3",
         "data": [
                  {
                  "uuid": "7b51109c-0d8a-11e8-ba89-0ed5f89f718b",
